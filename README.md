@@ -14,3 +14,9 @@ analysis : uplcSRM_acutetoxicty_cmitmit.R
 data : cmitmit_surv_data_effectiveconc.csv
 
 analysis : GUTS_acutetoxicity_cmitmit.R
+
+3. GLMM analyses
+
+data : SurvData_EffectConc_SurvInitMort.csv
+
+analysis : GLMM_LC50_acutetoxicity_cmitmit.R
