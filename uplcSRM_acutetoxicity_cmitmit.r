@@ -1,5 +1,6 @@
 # 
-# Code and data for the UPLC-MSMS SRM analysis in *(ref paper)
+# Code and data for the UPLC-MSMS SRM analysis 
+# in: Variation of tolerance to isothiazolinones among Daphnia pulex clones
 # https://github.com/mwagnerdeyries/Daphnia-CmitMit-ATox
 # author : Margot Wagner Deyries ma.ju.wagner@gmail.com
 rm(list=ls())
